@@ -3,6 +3,9 @@
 Hello
 Nitish 
 Added Update
+<<<<<<< HEAD
 New Branch Feature
 main update
 another update in new branch
+=======
+>>>>>>> parent of 86ffb26 (Main Update)
